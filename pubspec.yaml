@@ -1,7 +1,7 @@
 name: edgy_button
 description: Pin Edged Button in Flutter
 version: 0.0.1
-homepage:
+homepage: https://github.com/chipinvision/edgy_button.git
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
